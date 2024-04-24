@@ -1,0 +1,9 @@
+
+#pokemon-name-search {
+    padding: 1.5rem;
+    width: 600px;
+    border-radius: 11px;
+}
+#pokemon-name-search:focus {
+    outline: none;
+}
